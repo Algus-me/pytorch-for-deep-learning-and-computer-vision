@@ -136,3 +136,5 @@ data_/
 ants_and_bees/
 __MACOSX/
 my_photos/
+processed_images/
+test_conv_net/
